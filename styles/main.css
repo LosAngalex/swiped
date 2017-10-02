@@ -1,0 +1,23 @@
+p {
+    color: blue;
+    background-color: orange;
+}
+
+.logo {
+   max-width: 80%;
+}
+
+div {
+    max-width: 100%;
+}
+
+footer {
+    background-color: black;
+}
+
+.social {
+    max-height: 50px;
+    max-width: auto;
+    display: inline;
+    margin: 20px auto;
+}
